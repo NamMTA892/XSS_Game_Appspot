@@ -1,0 +1,3 @@
+# Level 6  
+Link chall: https://xss-game.appspot.com/level6  
+Description: Complex web applications sometimes have the capability to dynamically load JavaScript libraries based on the value of their URL parameters or part of location.hash. This is very tricky to get right -- allowing user input to influence the URL when loading scripts or other potentially dangerous types of data such as XMLHttpRequest often leads to serious vulnerabilities.
